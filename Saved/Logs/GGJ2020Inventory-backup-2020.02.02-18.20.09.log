@@ -1,0 +1,1538 @@
+﻿Log file open, 02/02/20 11:19:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GGJ2020Inventory
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.075255
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Engine.ini]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:1]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2020.02.02-16.19.10:924][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Engine.ini]
+[2020.02.02-16.19.10:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Engine.ini]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Engine.ini]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.02-16.19.10:925][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Engine.ini]
+[2020.02.02-16.19.10:925][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Engine.ini]
+[2020.02.02-16.19.10:927][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.02-16.19.10:927][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.02-16.19.10:928][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.02-16.19.10:928][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.02-16.19.10:928][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.02-16.19.10:930][  0]LogHAL: Display: Platform has ~ 16 GB [17027031040 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.02-16.19.10:930][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.02-16.19.10:930][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:930][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.02-16.19.10:930][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.02-16.19.10:930][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:930][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.02-16.19.10:930][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:930][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.02-16.19.10:930][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.02-16.19.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:932][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Scalability.ini]
+[2020.02.02-16.19.10:932][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.02-16.19.10:932][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.02-16.19.10:932][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GGJ2020Inventory(0.2)-master/Saved/Config/Windows/Engine.ini]
+[2020.02.02-16.19.10:932][  0]LogInit: Computer: LAPTOP-S2EA986F
+[2020.02.02-16.19.10:932][  0]LogInit: User: SPC
+[2020.02.02-16.19.10:932][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.02-16.19.10:932][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.02-16.19.10:932][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.02-16.19.10:932][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.02-16.19.10:932][  0]LogMemory: Process Physical Memory: 105.52 MB used, 105.52 MB peak
+[2020.02.02-16.19.10:932][  0]LogMemory: Process Virtual Memory: 101.74 MB used, 101.74 MB peak
+[2020.02.02-16.19.10:932][  0]LogMemory: Physical Memory: 4600.58 MB used,  11637.66 MB free, 16238.24 MB total
+[2020.02.02-16.19.10:932][  0]LogMemory: Virtual Memory: 5159.21 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.02.02-16.19.11:433][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.02-16.19.11:457][  0]LogInit: Using OS detected language (en-US).
+[2020.02.02-16.19.11:457][  0]LogInit: Using OS detected locale (en-CA).
+[2020.02.02-16.19.11:458][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.02-16.19.11:602][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.02-16.19.11:629][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.02-16.19.11:629][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.02-16.19.11:802][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.02-16.19.11:802][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.02-16.19.11:802][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.02-16.19.11:803][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.02-16.19.11:874][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.02.02-16.19.11:874][  0]LogD3D11RHI:       4021/0/8119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.02-16.19.11:892][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.02-16.19.11:892][  0]LogD3D11RHI:       128/0/8119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.02-16.19.11:894][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.02-16.19.11:894][  0]LogD3D11RHI:       0/0/8119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.02-16.19.11:894][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.02-16.19.11:934][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.02-16.19.11:935][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.02.02-16.19.11:935][  0]LogWindows: EnumDisplayDevices:
+[2020.02.02-16.19.11:935][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.02.02-16.19.11:935][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.02-16.19.11:935][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.02-16.19.11:935][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.02-16.19.11:935][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.02.02-16.19.11:936][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.02-16.19.11:936][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.02-16.19.11:936][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.02.02-16.19.11:978][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.02-16.19.11:978][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.02-16.19.11:989][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.02-16.19.12:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.02-16.19.12:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.02-16.19.12:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.02-16.19.12:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.02-16.19.12:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.02-16.19.12:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.02-16.19.12:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.02-16.19.12:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.02-16.19.12:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.02-16.19.12:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.02-16.19.12:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.02-16.19.12:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.02-16.19.12:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.02-16.19.12:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.02-16.19.12:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.02-16.19.12:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.02-16.19.12:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.02-16.19.12:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.02-16.19.12:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.02-16.19.12:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.02-16.19.12:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.02-16.19.12:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.02-16.19.12:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.02-16.19.12:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.02-16.19.12:447][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.02-16.19.12:448][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.02-16.19.12:468][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../GGJ2020Inventory(0.2)-master/Intermediate/Shaders/WorkingDirectory/22940/).
+[2020.02.02-16.19.12:468][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SPC/AppData/Local/Temp/UnrealShaderWorkingDir/5CE34AE44871E17A2876C6856453B3D0/'.
+[2020.02.02-16.19.12:468][  0]LogXGEController: Cleaning working directory: C:/Users/SPC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.02-16.19.12:469][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.02-16.19.12:469][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.02-16.19.12:469][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.02-16.19.13:082][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.02-16.19.13:141][  0]LogDerivedDataCache: Loaded boot cache 0.06s 98MB C:/Users/SPC/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.02-16.19.13:142][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SPC/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.02-16.19.13:142][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GGJ2020Inventory(0.2)-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.02-16.19.13:142][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.02-16.19.13:142][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GGJ2020Inventory(0.2)-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.02-16.19.13:142][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.02-16.19.13:150][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.02-16.19.13:151][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.02-16.19.13:151][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.02-16.19.13:152][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SPC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.02-16.19.13:152][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.02-16.19.13:152][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.02-16.19.13:183][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.02-16.19.13:186][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.02-16.19.13:186][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.02-16.19.13:234][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.02.02-16.19.13:489][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.02-16.19.13:618][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.02-16.19.13:618][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.02-16.19.13:618][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.02-16.19.13:618][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.02-16.19.13:618][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.02-16.19.13:628][  0]LogNetVersion: GGJ2020Inventory 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 372223817)
+[2020.02.02-16.19.14:510][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035426 seconds
+[2020.02.02-16.19.14:516][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.02-16.19.14:516][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.02-16.19.14:516][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.02-16.19.14:841][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.02-16.19.14:843][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.02-16.19.14:885][  0]SourceControl: Source control is disabled
+[2020.02.02-16.19.14:885][  0]SourceControl: Source control is disabled
+[2020.02.02-16.19.14:886][  0]SourceControl: Source control is disabled
+[2020.02.02-16.19.14:887][  0]SourceControl: Source control is disabled
+[2020.02.02-16.19.14:888][  0]SourceControl: Source control is disabled
+[2020.02.02-16.19.14:961][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.02-16.19.14:970][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.02-16.19.14:970][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.02-16.19.15:042][  0]LogOcInput: OculusInput pre-init called
+[2020.02.02-16.19.15:048][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.02-16.19.15:048][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.02-16.19.15:106][  0]LogEngine: Initializing Engine...
+[2020.02.02-16.19.15:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.02-16.19.15:108][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.02-16.19.15:403][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.02-16.19.15:412][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.02-16.19.15:421][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-16.19.15:421][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-16.19.15:421][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-16.19.15:421][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-16.19.15:421][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-16.19.15:421][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-16.19.15:421][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-16.19.15:421][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-16.19.15:422][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-16.19.15:422][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: 5: BackRight
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.02.02-16.19.15:430][  0]LogAudioMixer: Display: 7: SideRight
+[2020.02.02-16.19.15:777][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.02-16.19.15:782][  0]LogInit: FAudioDevice initialized.
+[2020.02.02-16.19.15:782][  0]LogNetVersion: Set ProjectVersion to 2.0. Version Checksum will be recalculated on next use.
+[2020.02.02-16.19.15:924][  0]LogDerivedDataCache: Saved boot cache 0.14s 77MB C:/Users/SPC/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.02-16.19.15:932][  0]LogInit: Texture streaming: Enabled
+[2020.02.02-16.19.15:941][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.02-16.19.15:941][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.02-16.19.15:946][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.02-16.19.15:986][  0]LogInit: Transaction tracking system initialized
+[2020.02.02-16.19.15:994][  0]BlueprintLog: New page: Editor Load
+[2020.02.02-16.19.16:019][  0]LocalizationService: Localization service is disabled
+[2020.02.02-16.19.16:249][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.02-16.19.16:249][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.02-16.19.16:262][  0]LogFileCache: Scanning file cache for directory 'D:/GGJ2020Inventory(0.2)-master/Content/' took 0.01s
+[2020.02.02-16.19.16:820][  0]SourceControl: Source control is disabled
+[2020.02.02-16.19.16:949][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.02-16.19.19:569][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.02.02-16.19.19:570][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.02-16.19.19:593][  0]Cmd: MAP LOAD FILE="../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/InventoryExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-16.19.19:594][  0]LightingResults: New page: Lighting Build
+[2020.02.02-16.19.19:595][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.19.19:595][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.19.19:595][  0]MapCheck: New page: Map Check
+[2020.02.02-16.19.19:595][  0]LightingResults: New page: Lighting Build
+[2020.02.02-16.19.19:632][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.02.02-16.19.19:797][  0]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/EquipmentSlots.EquipmentSlots' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.02-16.19.19:852][  0]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/ItemQuality.ItemQuality' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.02-16.19.19:888][  0]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/EquipmentType.EquipmentType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.02-16.19.20:192][  0]LogLinker: Display: CreateExport: Failed to load Parent for Function /Game/InventorySystem/Blueprints/Weapons/Weapon_Rifle_Assualt.Weapon_Rifle_Assualt_C:UserConstructionScript; removing parent information, but keeping function
+[2020.02.02-16.19.20:418][  0]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/ItemType.ItemType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.02-16.19.20:527][  0]LogBlueprint: Warning: [Compiler InventoryManagerComponent] Add Torque : Usage of 'Add Torque' has been deprecated. Use AddTorqueInRadians instead
+[2020.02.02-16.19.20:997][  0]LogBlueprint: Warning: [Compiler Usable_Door] SKEL_Usable_Actor_C.WasUsed is private and not accessible in this context. Please fix mark up or cease accessing as this will be an error in a future release.  Get WasUsed
+[2020.02.02-16.19.21:216][  0]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Inventory/EquipmentSlotType.EquipmentSlotType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.02-16.19.21:499][  0]LogClass: Warning: Enum '/Game/InventorySystem/Blueprints/Demo/Classes.Classes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2020.02.02-16.19.21:688][  0]LogAIModule: Creating AISystem for world InventoryExampleMap
+[2020.02.02-16.19.21:760][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-16.19.21:806][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.02-16.19.21:807][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-16.19.21:807][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2020.02.02-16.19.21:807][  0]LogFileHelpers: Loading map 'InventoryExampleMap' took 2.215
+[2020.02.02-16.19.21:841][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.02-16.19.21:887][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.19.21:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.19.21:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.19.21:906][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.19.21:913][  0]LogCollectionManager: Loaded 0 collections in 0.000900 seconds
+[2020.02.02-16.19.21:926][  0]LogFileCache: Scanning file cache for directory 'D:/GGJ2020Inventory(0.2)-master/Saved/Collections/' took 0.00s
+[2020.02.02-16.19.21:926][  0]LogFileCache: Scanning file cache for directory 'D:/GGJ2020Inventory(0.2)-master/Content/Developers/SPC/Collections/' took 0.00s
+[2020.02.02-16.19.21:926][  0]LogFileCache: Scanning file cache for directory 'D:/GGJ2020Inventory(0.2)-master/Content/Collections/' took 0.00s
+[2020.02.02-16.19.21:926][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3015 classes and 717 folders.
+[2020.02.02-16.19.21:928][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.02-16.19.21:972][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.02-16.19.21:976][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.02.02-16.19.22:015][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.02-16.19.22:022][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.02-16.19.22:069][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2020.02.02-16.19.22:277][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.02-16.19.22:277][  0]LogLoad: (Engine Initialization) Total time: 12.58 seconds
+[2020.02.02-16.19.22:277][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.02-16.19.22:357][  0]LogAssetRegistry: Asset discovery search completed in 9.1237 seconds
+[2020.02.02-16.19.22:361][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.02.02-16.19.22:362][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.02-16.19.22:378][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.02-16.19.23:881][  4]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.02-16.19.34:863][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:863][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:863][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:863][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:865][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:865][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:865][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:865][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:872][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:872][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:875][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:875][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:876][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:876][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:876][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:876][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:877][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:877][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:877][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:877][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:877][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:877][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:878][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:878][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:879][305]LogLinker: Warning: Failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:880][305]LogLinker: Warning: Failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:880][305]LogLinker: Warning: Failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:880][305]LogLinker: Warning: Failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:880][305]LogLinker: Warning: Failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:880][305]LogLinker: Warning: Failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:880][305]LogLinker: Warning: Failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:880][305]LogLinker: Warning: Failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:880][305]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:880][305]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:885][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:885][305]LoadErrors: Failed to load /Game/Assets/ARRIGenerator_ARRIGenerator.ARRIGenerator_ARRIGenerator Referenced by ARRIGenerator_ARRIGenerator_98
+[2020.02.02-16.19.34:885][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_ARRIGenerator': Can't find file.
+[2020.02.02-16.19.34:885][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:885][305]LoadErrors: Failed to load /Game/Assets/ARRIGenerator_Details.ARRIGenerator_Details Referenced by ARRIGenerator_Details_101
+[2020.02.02-16.19.34:885][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/ARRIGenerator_Details': Can't find file.
+[2020.02.02-16.19.34:886][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:886][305]LoadErrors: Failed to load /Game/Assets/chestlx_Cube_001.chestlx_Cube_001 Referenced by chestlx_Cube_001_7
+[2020.02.02-16.19.34:886][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Cube_001': Can't find file.
+[2020.02.02-16.19.34:886][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:886][305]LoadErrors: Failed to load /Game/Assets/chestlx_Plane_001.chestlx_Plane_001 Referenced by chestlx_Plane_001_10
+[2020.02.02-16.19.34:886][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/chestlx_Plane_001': Can't find file.
+[2020.02.02-16.19.34:886][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:886][305]LoadErrors: Failed to load /Game/Assets/Mesh.Mesh Referenced by Mesh_26
+[2020.02.02-16.19.34:886][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/Assets/Mesh': Can't find file.
+[2020.02.02-16.19.34:887][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:887][305]LoadErrors: Failed to load /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500 Referenced by Wall_500x500_4
+[2020.02.02-16.19.34:887][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:887][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.34:887][305]LoadErrors: Failed to load /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500 Referenced by Wall_500x501
+[2020.02.02-16.19.34:887][305]LogLinker: Warning: While loading '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap' failed to load '/Game/StarterContent/Architecture/Wall_500x500': Can't find file.
+[2020.02.02-16.19.35:037][305]LogAIModule: Creating AISystem for world BaseLevel2
+[2020.02.02-16.19.35:050][305]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InventorySystem/Maps/BaseLevel2.BaseLevel2
+[2020.02.02-16.19.35:081][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.02-16.19.35:083][305]Cmd: MAP LOAD FILE="../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-16.19.35:085][305]LightingResults: New page: Lighting Build
+[2020.02.02-16.19.35:085][305]LoadErrors: New page: Loading map: BaseLevel2.umap
+[2020.02.02-16.19.35:088][305]LogWorld: UWorld::CleanupWorld for InventoryExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.19.35:088][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.19.35:088][305]MapCheck: New page: Map Check
+[2020.02.02-16.19.35:088][305]LightingResults: New page: Lighting Build
+[2020.02.02-16.19.35:118][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.02-16.19.35:120][305]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-16.19.35:148][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.02-16.19.35:163][305]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-16.19.35:163][305]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2020.02.02-16.19.35:163][305]LogFileHelpers: Loading map 'BaseLevel2' took 0.081
+[2020.02.02-16.20.59:198][323]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InventorySystem/UI/Blueprints/Inventory/Container.Container
+[2020.02.02-16.20.59:478][323]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2020.02.02-16.21.00:922][323]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.02-16.21.05:093][565]LogSlate: Window 'Container' being destroyed
+[2020.02.02-16.21.05:106][565]LogSlate: Window 'Container' being destroyed
+[2020.02.02-16.21.05:112][565]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.21.05:112][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.21.05:132][565]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.21.05:133][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.21.17:874][318]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.02-16.21.18:094][318]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/BaseLevel20081C92E456B7521C7AD9AB14545F68E.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Maps/BaseLevel2.umap'
+[2020.02.02-16.21.18:126][318]AssetCheck: New page: Asset Save: BaseLevel2
+[2020.02.02-16.21.18:126][318]LogContentValidation: Display: Validating World /Game/InventorySystem/Maps/BaseLevel2.BaseLevel2
+[2020.02.02-16.21.48:472][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x304)
+[2020.02.02-16.21.51:370][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x304)
+[2020.02.02-16.21.59:037][720]LogEditorViewport: Clicking Background
+[2020.02.02-16.22.00:404][802]LogEditorViewport: Clicking Background
+[2020.02.02-16.22.16:848][784]LogEditorViewport: Clicking Background
+[2020.02.02-16.22.19:823][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x411)
+[2020.02.02-16.22.20:600][  7]LogEditorViewport: Clicking Background
+[2020.02.02-16.22.21:020][ 32]LogEditorViewport: Clicking Background
+[2020.02.02-16.22.22:404][115]LogEditorViewport: Clicking Background
+[2020.02.02-16.22.24:304][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table_untextured_fbx_table_top3)
+[2020.02.02-16.22.24:900][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table_untextured_fbx_table_top3)
+[2020.02.02-16.22.25:822][318]LogEditorViewport: Clicking Background
+[2020.02.02-16.22.26:710][371]LogEditorViewport: Clicking Background
+[2020.02.02-16.22.27:160][398]LogEditorViewport: Clicking Background
+[2020.02.02-16.22.27:526][420]LogEditorViewport: Clicking Background
+[2020.02.02-16.23.52:779][ 77]LogEditorViewport: Clicking Background
+[2020.02.02-16.24.43:351][ 92]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/InventorySystem/Items/ItemList.ItemList
+[2020.02.02-16.24.47:212][291]LogSlate: Window 'ItemList' being destroyed
+[2020.02.02-16.24.47:220][291]LogSlate: Window 'ItemList' being destroyed
+[2020.02.02-16.24.52:099][581]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/InventoryTutorial.InventoryTutorial
+[2020.02.02-16.24.57:562][777]LogSlate: Window 'InventoryTutorial' being destroyed
+[2020.02.02-16.24.57:575][777]LogSlate: Window 'InventoryTutorial' being destroyed
+[2020.02.02-16.24.57:588][777]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.24.57:588][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.25.34:161][961]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/InventorySystem/Blueprints/Demo/Example_01/EquipmentLoadout.EquipmentLoadout
+[2020.02.02-16.25.37:270][139]LogSlate: Window 'EquipmentLoadout' being destroyed
+[2020.02.02-16.25.37:283][139]LogSlate: Window 'EquipmentLoadout' being destroyed
+[2020.02.02-16.25.38:551][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Demo/Example_01/Muppet.Muppet
+[2020.02.02-16.25.43:893][490]LogSlate: Window 'Muppet' being destroyed
+[2020.02.02-16.25.43:906][490]LogSlate: Window 'Muppet' being destroyed
+[2020.02.02-16.25.43:908][490]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.25.43:908][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.26.05:743][780]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryHUDInterface.InventoryHUDInterface
+[2020.02.02-16.26.10:732][ 51]LogSlate: Window 'InventoryHUDInterface' being destroyed
+[2020.02.02-16.26.10:746][ 51]LogSlate: Window 'InventoryHUDInterface' being destroyed
+[2020.02.02-16.26.10:747][ 51]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.26.10:747][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.26.12:779][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2020.02.02-16.26.16:021][319]LogSlate: Window 'InventoryPlayerCharacter' being destroyed
+[2020.02.02-16.26.16:034][319]LogSlate: Window 'InventoryPlayerCharacter' being destroyed
+[2020.02.02-16.26.16:036][319]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.26.16:036][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.26.24:693][825]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController
+[2020.02.02-16.26.31:752][210]LogSlate: Window 'InventoryPlayerController' being destroyed
+[2020.02.02-16.26.31:765][210]LogSlate: Window 'InventoryPlayerController' being destroyed
+[2020.02.02-16.26.31:767][210]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.26.31:767][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.26.32:951][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/UsableActorInterface.UsableActorInterface
+[2020.02.02-16.26.43:091][839]LogSlate: Window 'UsableActorInterface' being destroyed
+[2020.02.02-16.26.43:106][839]LogSlate: Window 'UsableActorInterface' being destroyed
+[2020.02.02-16.26.43:106][839]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.26.43:106][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.26.57:956][717]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController
+[2020.02.02-16.27.04:747][ 78]LogSlate: Took 0.000669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.02-16.29.22:513][ 12]LogSlate: Window 'InventoryPlayerController' being destroyed
+[2020.02.02-16.29.22:525][ 12]LogSlate: Window 'InventoryPlayerController' being destroyed
+[2020.02.02-16.29.22:544][ 12]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.29.22:544][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.29.43:462][235]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/InventoryManagerComponent.InventoryManagerComponent
+[2020.02.02-16.30.40:994][621]LogSlate: Window 'InventoryManagerComponent' being destroyed
+[2020.02.02-16.30.41:001][621]LogSlate: Window 'InventoryManagerComponent' being destroyed
+[2020.02.02-16.30.41:002][621]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.30.41:002][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.30.53:691][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/InventoryManagerComponent.InventoryManagerComponent
+[2020.02.02-16.31.13:782][504]LogSlate: Window 'InventoryManagerComponent' being destroyed
+[2020.02.02-16.31.13:797][504]LogSlate: Window 'InventoryManagerComponent' being destroyed
+[2020.02.02-16.31.13:797][504]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.31.13:797][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.31.15:366][587]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/InventoryComponent.InventoryComponent
+[2020.02.02-16.31.45:355][346]LogSlate: Window 'InventoryComponent' being destroyed
+[2020.02.02-16.31.45:371][346]LogSlate: Window 'InventoryComponent' being destroyed
+[2020.02.02-16.31.45:372][346]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.31.45:372][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.31.48:501][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/EquipmentInventoryComponent.EquipmentInventoryComponent
+[2020.02.02-16.31.59:841][147]LogSlate: Window 'EquipmentInventoryComponent' being destroyed
+[2020.02.02-16.31.59:857][147]LogSlate: Window 'EquipmentInventoryComponent' being destroyed
+[2020.02.02-16.31.59:858][147]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.31.59:858][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.32.18:320][240]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2020.02.02-16.32.25:729][645]LogSlate: Window 'InventoryPlayerCharacter' being destroyed
+[2020.02.02-16.32.25:743][645]LogSlate: Window 'InventoryPlayerCharacter' being destroyed
+[2020.02.02-16.32.25:755][645]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.32.25:755][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.32.29:791][876]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController
+[2020.02.02-16.32.34:814][137]LogSlate: Window 'InventoryPlayerController' being destroyed
+[2020.02.02-16.32.34:827][137]LogSlate: Window 'InventoryPlayerController' being destroyed
+[2020.02.02-16.32.34:836][137]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.32.34:836][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.32.37:875][307]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/InventoryManagerComponent.InventoryManagerComponent
+[2020.02.02-16.33.06:850][972]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.02.02-16.33.06:852][972]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InventorySystem/Maps/BaseLevel2' took 0.111
+[2020.02.02-16.33.06:853][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent] ([1] browsable assets)...
+[2020.02.02-16.33.06:853][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent]
+[2020.02.02-16.33.07:415][972]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryManagerComponent_Auto155016DD644F7676656B9598B8979815A.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent_Auto1.uasset'
+[2020.02.02-16.33.07:417][972]LogFileHelpers: Auto-saving content packages took 0.565
+[2020.02.02-16.33.27:515][157]BlueprintLog: New page: Compile InventoryManagerComponent
+[2020.02.02-16.33.27:617][157]LogBlueprint: Warning: [Compiler InventoryManagerComponent] Add Torque : Usage of 'Add Torque' has been deprecated. Use AddTorqueInRadians instead
+[2020.02.02-16.33.27:780][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.02.02-16.34.13:645][740]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/InventoryComponent.InventoryComponent
+[2020.02.02-16.35.59:195][ 32]LogSlate: Window 'InventoryComponent' being destroyed
+[2020.02.02-16.35.59:206][ 32]LogSlate: Window 'InventoryComponent' being destroyed
+[2020.02.02-16.35.59:216][ 32]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.35.59:216][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.35.59:283][ 32]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.35.59:283][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.36.02:149][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/EquipmentInventoryComponent.EquipmentInventoryComponent
+[2020.02.02-16.36.10:650][668]LogSlate: Window 'EquipmentInventoryComponent' being destroyed
+[2020.02.02-16.36.10:664][668]LogSlate: Window 'EquipmentInventoryComponent' being destroyed
+[2020.02.02-16.36.10:665][668]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.36.10:665][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.36.12:846][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/InventoryManagerComponent.InventoryManagerComponent
+[2020.02.02-16.36.45:837][730]LogSlate: Window 'InventoryManagerComponent' being destroyed
+[2020.02.02-16.36.45:848][730]LogSlate: Window 'InventoryManagerComponent' being destroyed
+[2020.02.02-16.36.45:850][730]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.36.45:850][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.36.48:743][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x412)
+[2020.02.02-16.43.21:881][549]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.02.02-16.43.21:895][549]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InventorySystem/Maps/BaseLevel2' took 0.068
+[2020.02.02-16.43.21:897][549]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent] ([1] browsable assets)...
+[2020.02.02-16.43.21:897][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent]
+[2020.02.02-16.43.22:628][549]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryManagerComponent_Auto28F245736416280D06BD7029ED9606385.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent_Auto2.uasset'
+[2020.02.02-16.43.22:630][549]LogFileHelpers: Auto-saving content packages took 0.735
+[2020.02.02-16.44.10:097][864]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/InventoryManagerComponent.InventoryManagerComponent
+[2020.02.02-16.45.44:880][472]LogSlate: Took 0.004460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.02-16.49.58:890][628]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-16.49.58:908][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.49.58:909][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-16.49.58:909][628]PIE: New page: PIE session: BaseLevel2 (Feb. 2, 2020, 6:49:58 a.m.)
+[2020.02.02-16.49.58:910][628]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.02-16.49.58:911][628]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.02-16.49.58:911][628]LogPlayLevel: Creating play world package: /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2
+[2020.02.02-16.49.58:922][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010799s)
+[2020.02.02-16.49.58:924][628]LogAIModule: Creating AISystem for world BaseLevel2
+[2020.02.02-16.49.58:924][628]LogPlayLevel: PIE: World Init took: (0.001750s)
+[2020.02.02-16.49.58:924][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventorySystem/Maps/BaseLevel2.BaseLevel2 to /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2 (0.012941s)
+[2020.02.02-16.49.58:970][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.02.02-16.49.58:974][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-16.49.58:974][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-16.49.58:974][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-16.49.58:974][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-16.49.58:974][628]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-16.49.58:974][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-16.49.58:974][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-16.49.58:974][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-16.49.58:974][628]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-16.49.58:974][628]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: Channel Order:
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: 4: BackLeft
+[2020.02.02-16.49.58:980][628]LogAudioMixer: Display: 5: BackRight
+[2020.02.02-16.49.58:981][628]LogAudioMixer: Display: 6: SideLeft
+[2020.02.02-16.49.58:981][628]LogAudioMixer: Display: 7: SideRight
+[2020.02.02-16.49.59:090][628]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.02-16.49.59:092][628]LogInit: FAudioDevice initialized.
+[2020.02.02-16.49.59:145][628]LogLoad: Game class is 'InventoryGameMode_C'
+[2020.02.02-16.49.59:148][628]LogWorld: Bringing World /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2 up for play (max tick rate 60) at 2020.02.02-11.49.59
+[2020.02.02-16.49.59:148][628]LogWorld: Bringing up level for play took: 0.001515
+[2020.02.02-16.49.59:148][628]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.02.02-16.49.59:151][628]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.02-16.49.59:151][628]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.02-16.49.59:151][628]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.02-16.49.59:151][628]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.02-16.49.59:168][628]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.02-16.49.59:168][628]PIE: Play in editor start time for /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2 0.971
+[2020.02.02-16.49.59:168][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.50.01:450][744]LogScript: Warning: Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:0033
+[2020.02.02-16.50.01:450][744]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:450][744]LogScript: Warning: Accessed None
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:0048
+[2020.02.02-16.50.01:450][744]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:450][744]LogScript: Warning: Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:00A9
+[2020.02.02-16.50.01:451][744]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:451][744]LogScript: Warning: Accessed None
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:00BE
+[2020.02.02-16.50.01:451][744]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:451][744]LogScript: Warning: Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:00FA
+[2020.02.02-16.50.01:451][744]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:451][744]LogScript: Warning: Accessed None
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:010F
+[2020.02.02-16.50.01:451][744]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:499][747]LogScript: Warning: Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:0033
+[2020.02.02-16.50.01:499][747]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:499][747]LogScript: Warning: Accessed None
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:0048
+[2020.02.02-16.50.01:499][747]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:499][747]LogScript: Warning: Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:00A9
+[2020.02.02-16.50.01:499][747]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:500][747]LogScript: Warning: Accessed None
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:00BE
+[2020.02.02-16.50.01:500][747]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:500][747]LogScript: Warning: Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:00FA
+[2020.02.02-16.50.01:500][747]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:500][747]LogScript: Warning: Accessed None
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:010F
+[2020.02.02-16.50.01:500][747]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:549][750]LogScript: Warning: Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:0033
+[2020.02.02-16.50.01:549][750]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:549][750]LogScript: Warning: Accessed None
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:0048
+[2020.02.02-16.50.01:549][750]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:549][750]LogScript: Warning: Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:00A9
+[2020.02.02-16.50.01:549][750]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:549][750]LogScript: Warning: Accessed None
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:00BE
+[2020.02.02-16.50.01:549][750]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:550][750]LogScript: Warning: Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill
+	InventoryPlayerController_C /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2:PersistentLevel.InventoryPlayerController_C_0
+	Function /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController_C:GetUsableActor:00FA
+[2020.02.02-16.50.01:550][750]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:550][750]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:600][753]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:600][753]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:600][753]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:600][753]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:600][753]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:600][753]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:650][756]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:650][756]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:650][756]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:650][756]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:650][756]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:650][756]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:700][759]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:700][759]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:700][759]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:700][759]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:700][759]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:700][759]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:750][762]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:750][762]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:750][762]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:750][762]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:750][762]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:750][762]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:800][765]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:800][765]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:800][765]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:800][765]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:800][765]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:800][765]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:850][768]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:850][768]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:850][768]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:851][768]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:851][768]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:851][768]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:900][771]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:900][771]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:900][771]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:900][771]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:900][771]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:900][771]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:950][774]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:950][774]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:950][774]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:950][774]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:950][774]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:950][774]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.01:999][777]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.02:000][777]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.02:000][777]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.02:000][777]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.02:000][777]PIE: Error: Blueprint Runtime Error: "Attempted to access InventoryPlayerCharacter_C_0 via property CharacterReference, but InventoryPlayerCharacter_C_0 is pending kill". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.02:000][777]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryPlayerController Function:  Get Usable Actor Graph:  GetUsableActor Node:  LineTraceByChannel
+[2020.02.02-16.50.02:018][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.50.02:018][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.50.02:018][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.50.02:020][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.50.02:020][778]LogWorld: BeginTearingDown for /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2
+[2020.02.02-16.50.02:020][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.50.02:020][778]LogWorld: UWorld::CleanupWorld for BaseLevel2, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.50.02:020][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.50.02:026][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-16.50.02:026][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.50.02:032][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.50.02:073][778]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.50.02:080][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.50.02:105][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.02.02-16.50.02:221][779]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.02.02-16.50.03:456][838]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-16.50.03:464][838]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-16.50.04:419][895]Cmd: SELECT NONE
+[2020.02.02-16.51.00:847][220]LogBlueprintUserMessages: [World_Actor_C_0] None NOT FOUND IN ITEM LIST
+[2020.02.02-16.51.00:847][220]LogBlueprintUserMessages: [World_Actor_C_0] Item Has No World Mesh
+[2020.02.02-16.51.15:191][ 59]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/InventorySystem/Blueprints/Demo/ClassStartingEquipment.ClassStartingEquipment
+[2020.02.02-16.52.01:452][823]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/ClassStartingEquipmentB551D5BD477F3ED2B8384AB86B154588.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Blueprints/Demo/ClassStartingEquipment.uasset'
+[2020.02.02-16.52.01:482][823]AssetCheck: New page: Asset Save: ClassStartingEquipment
+[2020.02.02-16.52.01:482][823]LogContentValidation: Display: Validating DataTable /Game/InventorySystem/Blueprints/Demo/ClassStartingEquipment.ClassStartingEquipment
+[2020.02.02-16.52.14:338][590]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/ClassStartingEquipmentD0C893BC4706179CB927B8854D3EAC30.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Blueprints/Demo/ClassStartingEquipment.uasset'
+[2020.02.02-16.52.14:361][590]AssetCheck: New page: Asset Save: ClassStartingEquipment
+[2020.02.02-16.52.14:361][590]LogContentValidation: Display: Validating DataTable /Game/InventorySystem/Blueprints/Demo/ClassStartingEquipment.ClassStartingEquipment
+[2020.02.02-16.52.27:588][380]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/ClassStartingEquipment57CB48254F5BF95A8FD9AFA12A7485F9.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Blueprints/Demo/ClassStartingEquipment.uasset'
+[2020.02.02-16.52.27:612][380]AssetCheck: New page: Asset Save: ClassStartingEquipment
+[2020.02.02-16.52.27:612][380]LogContentValidation: Display: Validating DataTable /Game/InventorySystem/Blueprints/Demo/ClassStartingEquipment.ClassStartingEquipment
+[2020.02.02-16.52.29:676][503]LogSlate: Window 'ClassStartingEquipment' being destroyed
+[2020.02.02-16.52.29:686][503]LogSlate: Window 'ClassStartingEquipment' being destroyed
+[2020.02.02-16.52.29:698][503]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.52.29:699][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.52.31:053][576]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-16.52.31:063][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.52.31:063][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-16.52.31:063][576]PIE: New page: PIE session: BaseLevel2 (Feb. 2, 2020, 6:52:31 a.m.)
+[2020.02.02-16.52.31:063][576]LogPlayLevel: Creating play world package: /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2
+[2020.02.02-16.52.31:073][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009707s)
+[2020.02.02-16.52.31:075][576]LogAIModule: Creating AISystem for world BaseLevel2
+[2020.02.02-16.52.31:075][576]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2020.02.02-16.52.31:075][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventorySystem/Maps/BaseLevel2.BaseLevel2 to /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2 (0.011585s)
+[2020.02.02-16.52.31:181][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.02.02-16.52.31:184][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-16.52.31:184][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-16.52.31:184][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-16.52.31:184][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-16.52.31:184][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-16.52.31:184][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-16.52.31:184][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-16.52.31:184][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-16.52.31:185][576]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-16.52.31:185][576]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: Channel Order:
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: 4: BackLeft
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: 5: BackRight
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: 6: SideLeft
+[2020.02.02-16.52.31:190][576]LogAudioMixer: Display: 7: SideRight
+[2020.02.02-16.52.31:297][576]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.02-16.52.31:298][576]LogInit: FAudioDevice initialized.
+[2020.02.02-16.52.31:306][576]LogLoad: Game class is 'InventoryGameMode_C'
+[2020.02.02-16.52.31:308][576]LogWorld: Bringing World /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2 up for play (max tick rate 60) at 2020.02.02-11.52.31
+[2020.02.02-16.52.31:308][576]LogWorld: Bringing up level for play took: 0.001143
+[2020.02.02-16.52.31:308][576]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.02.02-16.52.31:310][576]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.02-16.52.31:310][576]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.02-16.52.31:310][576]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.02-16.52.31:329][576]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.02-16.52.31:329][576]PIE: Play in editor start time for /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2 1.131
+[2020.02.02-16.52.31:330][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.52.32:910][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.52.32:910][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.52.32:911][667]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.52.32:913][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.52.32:913][667]LogWorld: BeginTearingDown for /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2
+[2020.02.02-16.52.32:913][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.52.32:913][667]LogWorld: UWorld::CleanupWorld for BaseLevel2, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.52.32:913][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.52.32:920][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-16.52.32:920][667]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.52.32:926][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.52.32:967][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.52.32:973][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.52.33:003][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.02.02-16.52.33:016][668]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.02.02-16.52.34:356][746]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-16.52.34:366][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.52.34:366][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-16.52.34:366][746]PIE: New page: PIE session: BaseLevel2 (Feb. 2, 2020, 6:52:34 a.m.)
+[2020.02.02-16.52.34:367][746]LogPlayLevel: Creating play world package: /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2
+[2020.02.02-16.52.34:377][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009766s)
+[2020.02.02-16.52.34:378][746]LogAIModule: Creating AISystem for world BaseLevel2
+[2020.02.02-16.52.34:378][746]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2020.02.02-16.52.34:378][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventorySystem/Maps/BaseLevel2.BaseLevel2 to /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2 (0.011283s)
+[2020.02.02-16.52.34:411][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.02-16.52.34:413][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-16.52.34:413][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-16.52.34:413][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-16.52.34:413][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-16.52.34:413][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-16.52.34:413][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-16.52.34:413][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-16.52.34:413][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-16.52.34:413][746]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-16.52.34:413][746]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: Channel Order:
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: 4: BackLeft
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: 5: BackRight
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: 6: SideLeft
+[2020.02.02-16.52.34:418][746]LogAudioMixer: Display: 7: SideRight
+[2020.02.02-16.52.34:520][746]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.02-16.52.34:522][746]LogInit: FAudioDevice initialized.
+[2020.02.02-16.52.34:531][746]LogLoad: Game class is 'InventoryGameMode_C'
+[2020.02.02-16.52.34:533][746]LogWorld: Bringing World /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2 up for play (max tick rate 60) at 2020.02.02-11.52.34
+[2020.02.02-16.52.34:533][746]LogWorld: Bringing up level for play took: 0.000985
+[2020.02.02-16.52.34:533][746]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.02.02-16.52.34:534][746]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.02-16.52.34:534][746]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.02-16.52.34:534][746]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.02-16.52.34:554][746]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.02-16.52.34:554][746]PIE: Play in editor start time for /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2 0.356
+[2020.02.02-16.52.34:554][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.52.50:974][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.52.50:974][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.52.50:974][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.52.50:977][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.52.50:977][724]LogWorld: BeginTearingDown for /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2
+[2020.02.02-16.52.50:977][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.52.50:977][724]LogWorld: UWorld::CleanupWorld for BaseLevel2, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.52.50:977][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.52.50:987][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-16.52.50:988][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.52.50:992][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.52.51:027][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.52.51:033][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.52.51:037][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.02.02-16.52.51:077][726]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.02.02-16.52.52:847][830]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/InventorySystem/Blueprints/Demo/ClassStartingEquipment.ClassStartingEquipment
+[2020.02.02-16.53.09:954][841]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/InventorySystem/Blueprints/Inventory/ItemType.ItemType
+[2020.02.02-16.53.11:812][948]LogSlate: Window 'ItemType' being destroyed
+[2020.02.02-16.53.11:826][948]LogSlate: Window 'ItemType' being destroyed
+[2020.02.02-16.53.13:737][ 59]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/InventorySystem/Blueprints/Inventory/Item.Item
+[2020.02.02-16.53.16:647][228]LogSlate: Window 'Item' being destroyed
+[2020.02.02-16.53.16:660][228]LogSlate: Window 'Item' being destroyed
+[2020.02.02-16.53.40:131][621]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Inventory/InventoryInterface.InventoryInterface
+[2020.02.02-16.53.45:070][887]LogSlate: Window 'InventoryInterface' being destroyed
+[2020.02.02-16.53.45:087][887]LogSlate: Window 'InventoryInterface' being destroyed
+[2020.02.02-16.53.45:089][887]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.53.45:089][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.53.48:096][ 54]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/InventorySystem/Blueprints/Inventory/Item.Item
+[2020.02.02-16.53.50:320][181]LogSlate: Window 'Item' being destroyed
+[2020.02.02-16.53.50:334][181]LogSlate: Window 'Item' being destroyed
+[2020.02.02-16.53.51:518][249]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/InventorySystem/Blueprints/Inventory/InventoryItem.InventoryItem
+[2020.02.02-16.53.55:093][457]LogSlate: Window 'InventoryItem' being destroyed
+[2020.02.02-16.53.55:106][457]LogSlate: Window 'InventoryItem' being destroyed
+[2020.02.02-16.54.03:453][953]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/InventorySystem/Items/ItemList.ItemList
+[2020.02.02-16.54.12:478][483]LogSlate: Window 'ItemList' being destroyed
+[2020.02.02-16.54.12:490][483]LogSlate: Window 'ItemList' being destroyed
+[2020.02.02-16.54.25:309][243]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/InventorySystem/Blueprints/Demo/ClassStartingEquipment.ClassStartingEquipment
+[2020.02.02-16.54.53:548][925]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/ClassStartingEquipmentE7B330C34B9C2CA4BBF59FB12C048F07.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Blueprints/Demo/ClassStartingEquipment.uasset'
+[2020.02.02-16.54.53:571][925]AssetCheck: New page: Asset Save: ClassStartingEquipment
+[2020.02.02-16.54.53:571][925]LogContentValidation: Display: Validating DataTable /Game/InventorySystem/Blueprints/Demo/ClassStartingEquipment.ClassStartingEquipment
+[2020.02.02-16.54.55:698][ 53]LogSlate: Window 'ClassStartingEquipment' being destroyed
+[2020.02.02-16.54.55:706][ 53]LogSlate: Window 'ClassStartingEquipment' being destroyed
+[2020.02.02-16.54.56:379][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-16.54.56:388][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.54.56:388][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-16.54.56:388][ 93]PIE: New page: PIE session: BaseLevel2 (Feb. 2, 2020, 6:54:56 a.m.)
+[2020.02.02-16.54.56:388][ 93]LogPlayLevel: Creating play world package: /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2
+[2020.02.02-16.54.56:399][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010690s)
+[2020.02.02-16.54.56:400][ 93]LogAIModule: Creating AISystem for world BaseLevel2
+[2020.02.02-16.54.56:401][ 93]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2020.02.02-16.54.56:401][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventorySystem/Maps/BaseLevel2.BaseLevel2 to /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2 (0.012571s)
+[2020.02.02-16.54.56:441][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.02.02-16.54.56:447][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-16.54.56:447][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-16.54.56:447][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-16.54.56:447][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-16.54.56:447][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-16.54.56:447][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-16.54.56:447][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-16.54.56:447][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-16.54.56:447][ 93]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-16.54.56:448][ 93]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: Channel Order:
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.02-16.54.56:453][ 93]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.02-16.54.56:454][ 93]LogAudioMixer: Display: 4: BackLeft
+[2020.02.02-16.54.56:454][ 93]LogAudioMixer: Display: 5: BackRight
+[2020.02.02-16.54.56:454][ 93]LogAudioMixer: Display: 6: SideLeft
+[2020.02.02-16.54.56:454][ 93]LogAudioMixer: Display: 7: SideRight
+[2020.02.02-16.54.56:561][ 93]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.02.02-16.54.56:563][ 93]LogInit: FAudioDevice initialized.
+[2020.02.02-16.54.56:571][ 93]LogLoad: Game class is 'InventoryGameMode_C'
+[2020.02.02-16.54.56:573][ 93]LogWorld: Bringing World /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2.BaseLevel2 up for play (max tick rate 60) at 2020.02.02-11.54.56
+[2020.02.02-16.54.56:573][ 93]LogWorld: Bringing up level for play took: 0.001102
+[2020.02.02-16.54.56:573][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.02.02-16.54.56:575][ 93]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.02-16.54.56:575][ 93]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.02.02-16.54.56:575][ 93]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.02.02-16.54.56:593][ 93]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.02.02-16.54.56:593][ 93]PIE: Play in editor start time for /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2 0.396
+[2020.02.02-16.54.56:593][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.55.00:477][320]LogBlueprintUserMessages: [InventoryManagerComponent] DROPPED ITEM
+[2020.02.02-16.55.10:228][905]LogBlueprintUserMessages: [InventoryManagerComponent] DROPPED ITEM
+[2020.02.02-16.55.19:094][437]LogBlueprintUserMessages: [InventoryManagerComponent] DROPPED ITEM
+[2020.02.02-16.55.29:012][ 32]LogBlueprintUserMessages: [InventoryManagerComponent] DROPPED ITEM
+[2020.02.02-16.55.34:295][349]LogBlueprintUserMessages: [InventoryManagerComponent] DROPPED ITEM
+[2020.02.02-16.55.38:471][598]LogBlueprintUserMessages: [InventoryManagerComponent] DROPPED ITEM
+[2020.02.02-16.55.44:804][978]LogBlueprintUserMessages: [InventoryManagerComponent] DROPPED ITEM
+[2020.02.02-16.55.50:088][295]LogBlueprintUserMessages: [InventoryManagerComponent] DROPPED ITEM
+[2020.02.02-16.56.04:223][143]LogBlueprintUserMessages: [InventoryManagerComponent] DROPPED ITEM
+[2020.02.02-16.56.08:341][390]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.56.08:341][390]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.56.08:341][390]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.56.08:342][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.56.08:343][390]LogWorld: BeginTearingDown for /Game/InventorySystem/Maps/UEDPIE_0_BaseLevel2
+[2020.02.02-16.56.08:343][390]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.56.08:343][390]LogWorld: UWorld::CleanupWorld for BaseLevel2, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.56.08:343][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.56.08:352][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-16.56.08:352][390]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2' with GeneratedClass '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2_C' with ClassGeneratedBy '/Game/InventorySystem/Maps/BaseLevel2.BaseLevel2:PersistentLevel.BaseLevel2'
+[2020.02.02-16.56.08:358][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.56.08:391][390]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-16.56.08:397][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-16.56.08:402][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.02-16.56.08:441][392]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.02.02-16.56.16:717][884]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryHUDInterface.InventoryHUDInterface
+[2020.02.02-16.56.26:428][436]LogSlate: Window 'InventoryHUDInterface' being destroyed
+[2020.02.02-16.56.26:442][436]LogSlate: Window 'InventoryHUDInterface' being destroyed
+[2020.02.02-16.56.26:442][436]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.56.26:442][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.56.30:096][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryPlayerCharacter.InventoryPlayerCharacter
+[2020.02.02-16.56.40:671][243]LogSlate: Window 'InventoryPlayerCharacter' being destroyed
+[2020.02.02-16.56.40:683][243]LogSlate: Window 'InventoryPlayerCharacter' being destroyed
+[2020.02.02-16.56.40:684][243]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.56.40:684][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.56.42:986][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/EquipmentCharacter.EquipmentCharacter
+[2020.02.02-16.56.51:041][814]LogSlate: Window 'EquipmentCharacter' being destroyed
+[2020.02.02-16.56.51:055][814]LogSlate: Window 'EquipmentCharacter' being destroyed
+[2020.02.02-16.56.51:056][814]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.56.51:056][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.56.53:910][973]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryHUD.InventoryHUD
+[2020.02.02-16.57.05:441][627]LogSlate: Window 'InventoryHUD' being destroyed
+[2020.02.02-16.57.05:454][627]LogSlate: Window 'InventoryHUD' being destroyed
+[2020.02.02-16.57.05:454][627]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.57.05:454][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.57.08:468][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController
+[2020.02.02-16.57.41:804][753]LogSlate: Window 'InventoryPlayerController' being destroyed
+[2020.02.02-16.57.41:818][753]LogSlate: Window 'InventoryPlayerController' being destroyed
+[2020.02.02-16.57.41:818][753]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.57.41:818][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.57.43:837][860]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryHUDInterface.InventoryHUDInterface
+[2020.02.02-16.58.15:905][745]LogSlate: Window 'InventoryHUDInterface' being destroyed
+[2020.02.02-16.58.15:918][745]LogSlate: Window 'InventoryHUDInterface' being destroyed
+[2020.02.02-16.58.15:919][745]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-16.58.15:919][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-16.58.18:059][866]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/InventoryPlayerController.InventoryPlayerController
+[2020.02.02-16.58.22:873][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.02.02-16.58.23:113][110]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/BaseLevel2_Auto3EA565B3947C90835661ED3BCFAB8DAEF.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Maps/BaseLevel2_Auto3.umap'
+[2020.02.02-16.58.23:115][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InventorySystem/Maps/BaseLevel2' took 0.281
+[2020.02.02-16.58.23:115][110]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.281
+[2020.02.02-16.58.23:116][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent] ([1] browsable assets)...
+[2020.02.02-16.58.23:116][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent]
+[2020.02.02-16.58.23:668][110]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryManagerComponent_Auto36861DD1440BE31E389DB60928135F31A.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent_Auto3.uasset'
+[2020.02.02-16.58.23:669][110]LogFileHelpers: Auto-saving content packages took 0.554
+[2020.02.02-17.05.40:164][177]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/Components/InventoryManagerComponent.InventoryManagerComponent
+[2020.02.02-17.24.43:704][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.02.02-17.24.43:706][759]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InventorySystem/Maps/BaseLevel2' took 0.044
+[2020.02.02-17.24.43:707][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent] ([1] browsable assets)...
+[2020.02.02-17.24.43:707][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent]
+[2020.02.02-17.24.44:260][759]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryManagerComponent_Auto4CC50B9674CBF431FAD448FBCD38E19F0.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent_Auto4.uasset'
+[2020.02.02-17.24.44:261][759]LogFileHelpers: Auto-saving content packages took 0.555
+[2020.02.02-17.25.01:008][743]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.02.02-17.25.06:391][ 40]Cmd: TRANSACTION UNDO
+[2020.02.02-17.25.06:391][ 40]LogEditorTransaction: Undo Add Node
+[2020.02.02-17.25.13:248][426]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-17.25.13:248][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-17.25.23:489][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.02.02-17.25.29:106][322]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-17.25.29:106][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-17.25.49:339][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.02.02-17.25.51:291][593]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-17.25.51:291][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-17.28.30:746][937]BlueprintLog: New page: Compile InventoryManagerComponent
+[2020.02.02-17.28.30:862][937]LogBlueprint: Warning: [Compiler InventoryManagerComponent] Add Torque : Usage of 'Add Torque' has been deprecated. Use AddTorqueInRadians instead
+[2020.02.02-17.28.31:263][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.02.02-17.31.01:204][800]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.02.02-17.31.03:580][921]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-17.31.03:580][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-17.31.24:086][121]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/InventorySystem/Items/ItemList.ItemList
+[2020.02.02-17.33.40:159][121]LogStaticMesh: Building static mesh Shape_Pipe...
+[2020.02.02-17.33.40:213][121]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2020.02.02-17.34.57:964][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.02.02-17.34.57:965][335]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InventorySystem/Maps/BaseLevel2' took 0.096
+[2020.02.02-17.34.57:967][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent] ([1] browsable assets)...
+[2020.02.02-17.34.57:967][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent]
+[2020.02.02-17.34.58:550][335]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryManagerComponent_Auto5C33E1B0F4B3E93FAC47C0A8438D27305.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent_Auto5.uasset'
+[2020.02.02-17.34.58:554][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/InventoryPlayerController] ([1] browsable assets)...
+[2020.02.02-17.34.58:554][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/InventoryPlayerController]
+[2020.02.02-17.34.58:738][335]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryPlayerController_Auto5361FD61445E376E4484EABA84B6335A2.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/InventoryPlayerController_Auto5.uasset'
+[2020.02.02-17.34.58:740][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Items/ItemList] ([1] browsable assets)...
+[2020.02.02-17.34.58:740][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Items/ItemList]
+[2020.02.02-17.35.00:370][335]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/ItemList_Auto5FA9D8669401B66E9EF5294A0EEBB82BB.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Items/ItemList_Auto5.uasset'
+[2020.02.02-17.35.00:371][335]LogFileHelpers: Auto-saving content packages took 2.405
+[2020.02.02-17.43.06:734][768]BlueprintLog: New page: Compile InventoryManagerComponent
+[2020.02.02-17.43.06:853][768]LogBlueprint: Warning: [Compiler InventoryManagerComponent] Add Torque : Usage of 'Add Torque' has been deprecated. Use AddTorqueInRadians instead
+[2020.02.02-17.43.07:301][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.02.02-17.44.00:719][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Items/ItemList" FILE="../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Items/ItemList.uasset" SILENT=true
+[2020.02.02-17.44.00:740][923]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/ItemListF5FA701E4A41D45EAA5F42A35BB11965.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Content/InventorySystem/Items/ItemList.uasset'
+[2020.02.02-17.44.00:781][923]AssetCheck: New page: Asset Save: ItemList
+[2020.02.02-17.44.00:781][923]LogContentValidation: Display: Validating DataTable /Game/InventorySystem/Items/ItemList.ItemList
+[2020.02.02-17.46.27:721][470]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UDataTableFunctionLibrary::GetDataTableColumnAsString' [The specified module could not be found.]
+[2020.02.02-17.52.53:707][498]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.02.02-17.52.57:705][671]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.02-17.52.57:715][671]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.02-17.53.17:715][761]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.02.02-17.53.20:681][910]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.02-17.53.20:690][910]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.02-17.54.02:486][366]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.02.02-17.54.02:488][366]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InventorySystem/Maps/BaseLevel2' took 0.065
+[2020.02.02-17.54.02:489][366]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent] ([1] browsable assets)...
+[2020.02.02-17.54.02:489][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent]
+[2020.02.02-17.54.03:067][366]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryManagerComponent_Auto6D0F309554B3B1BA9EA496D981E95DF77.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent_Auto6.uasset'
+[2020.02.02-17.54.03:069][366]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/InventoryPlayerController] ([1] browsable assets)...
+[2020.02.02-17.54.03:069][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/InventoryPlayerController]
+[2020.02.02-17.54.03:255][366]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryPlayerController_Auto60CF7D16F49CB2C9F65FFCC9C33355C52.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/InventoryPlayerController_Auto6.uasset'
+[2020.02.02-17.54.03:256][366]LogFileHelpers: Auto-saving content packages took 0.768
+[2020.02.02-18.04.56:487][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.02-18.04.56:489][482]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InventorySystem/Maps/BaseLevel2' took 0.048
+[2020.02.02-18.04.56:490][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent] ([1] browsable assets)...
+[2020.02.02-18.04.56:490][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent]
+[2020.02.02-18.04.57:061][482]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryManagerComponent_Auto710D9958046D976D55DFB5AB264164BBC.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent_Auto7.uasset'
+[2020.02.02-18.04.57:063][482]LogFileHelpers: Auto-saving content packages took 0.574
+[2020.02.02-18.17.38:925][156]LogEditorTransaction: Undo Paste clipboard contents
+[2020.02.02-18.19.13:947][439]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.02.02-18.19.13:949][439]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InventorySystem/Maps/BaseLevel2' took 0.075
+[2020.02.02-18.19.13:950][439]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent] ([1] browsable assets)...
+[2020.02.02-18.19.13:950][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent]
+[2020.02.02-18.19.14:538][439]LogSavePackage: Moving '../../../../../GGJ2020Inventory(0.2)-master/Saved/InventoryManagerComponent_Auto8BA691AB64D1308A7E9F7E681F1BE4E53.tmp' to '../../../../../GGJ2020Inventory(0.2)-master/Saved/Autosaves/Game/InventorySystem/Blueprints/Components/InventoryManagerComponent_Auto8.uasset'
+[2020.02.02-18.19.14:540][439]LogFileHelpers: Auto-saving content packages took 0.590
+[2020.02.02-18.20.02:390][161]LogD3D11RHI: Error: D3DRHI->GetFactory()->CreateSwapChain(DXGIDevice, &SwapChainDesc, SwapChain.GetInitReference()) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/Windows/WindowsD3D11Viewport.cpp:210 
+ with error E_OUTOFMEMORY
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     89 = 32768 KB (2D 8192x2048 PF_ShadowDepth) WholeSceneShadowmap unused(1)
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     94 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(114724)
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     93 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(114724)
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     92 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(114724)
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     69 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaJ
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     70 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSM
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     71 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereDeltaSR
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     72 = 8192 KB (3D 256x128x32 PF_FloatRGBA RT) AtmosphereInscatter
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     83 = 3254 KB (2D 964x432 PF_FloatRGBA RT UAV VRam) SceneColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     32 = 3254 KB (2D 964x432 PF_FloatRGBA RT UAV) LightAccumulation
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     77 = 3254 KB (2D 964x432 PF_FloatRGBA RT UAV) ScreenSpaceReflections unused(1)
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     66 = 3254 KB (2D 964x432 PF_FloatRGBA RT VRam) SceneColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     33 = 3254 KB (2D 964x432 PF_FloatRGBA RT) SceneColorSubPixel
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     76 = 3254 KB (2D 964x432 PF_FloatRGBA RT) SeparateTranslucency unused(1)
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     64 = 3254 KB (2D 964x432 PF_FloatRGBA UAV) TemporalAA
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     65 = 3254 KB (2D 964x432 PF_FloatRGBA UAV) TemporalAA unused(1)
+[2020.02.02-18.20.09:569][161]LogConsoleResponse:     26 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     28 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     30 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     27 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     29 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     31 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     36 = 2034 KB (2D 964x432 PF_DepthStencil 4xMSAA) EditorPrimitivesDepth unused(1)
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     67 = 2034 KB (2D 964x432 PF_DepthStencil 4xMSAA) SelectionOutline unused(1)
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     23 = 2034 KB (2D 964x432 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     45 = 2034 KB (2D 964x432 PF_DepthStencil) CustomDepth
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     88 = 1627 KB (2D 964x432 PF_A2B10G10R10 RT) GBufferA unused(1)
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     68 = 1627 KB (2D 964x432 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(1)
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     86 = 1627 KB (2D 964x432 PF_B8G8R8A8 RT sRGB) GBufferC unused(1)
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     35 = 1627 KB (2D 964x432 PF_B8G8R8A8 RT VRam) GBufferB unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     37 = 1627 KB (2D 964x432 PF_B8G8R8A8 RT VRam) GBufferD unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     78 = 1627 KB (2D 964x432 PF_B8G8R8A8 RT VRam) LightAttenuation unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     87 = 1627 KB (2D 964x432 PF_B8G8R8A8 RT VRam) SelectionOutlineColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     85 = 1627 KB (2D 964x432 PF_B8G8R8A8 RT) EditorPrimitives unused(1)
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     84 = 1627 KB (2D 964x432 PF_B8G8R8A8 RT) GBufferE unused(1)
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     91 = 1627 KB (2D 964x432 PF_B8G8R8A8 RT) HitProxy unused(111355)
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     81 = 1627 KB (2D 964x432 PF_G16R16 RT UAV) Velocity unused(1)
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     48 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     47 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     24 = 1017 KB (2D 482x216 PF_DepthStencil) SmallDepthZ
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     80 = 814 KB (2D 482x216 PF_FloatRGBA RT VRam) AmbientOcclusionSetup unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     34 = 814 KB (2D 964x216 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     79 = 407 KB (2D 482x216 PF_B8G8R8A8 RT VRam) AmbientOcclusion unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     40 = 407 KB (2D 482x216 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     63 = 407 KB (2D 482x216 PF_FloatRGB RT VRam) LensFlareTexture unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     25 = 407 KB (2D 964x432 PF_G8 RT UAV) ScreenSpaceAO
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     82 = 342 KB (2D 512x256 PF_R16F UAV VRam) HZBFurthest unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     20 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     21 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     19 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     22 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     90 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     39 = 204 KB (2D 241x108 PF_FloatRGBA RT VRam) LensFlareBlur unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     75 = 128 KB (2D 256x64 PF_FloatRGBA RT) AtmosphereTransmittance
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     95 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUT unused(114724) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     60 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     49 = 102 KB (2D 241x108 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     58 = 102 KB (2D 241x108 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     41 = 102 KB (2D 241x108 PF_FloatRGB RT VRam) Scene(1/4) unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:      6 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     46 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2020.02.02-18.20.09:570][161]LogConsoleResponse:     44 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     43 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     17 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     57 = 26 KB (2D 121x54 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     50 = 26 KB (2D 121x54 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     16 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     18 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     13 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     73 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereDeltaE
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     74 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereIrradiance
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     14 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     62 = 7 KB (2D 16x56 PF_FloatRGBA RT UAV VRam) Histogram unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     56 = 7 KB (2D 61x27 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     51 = 7 KB (2D 61x27 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     55 = 2 KB (2D 31x14 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     52 = 2 KB (2D 31x14 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     61 = 1 KB (2D 16x2 PF_A32B32G32R32F RT VRam) HistogramReduce unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     54 = 1 KB (2D 16x7 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     53 = 1 KB (2D 16x7 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     59 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     38 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:      3 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:      2 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:      4 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:      1 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     96 = 1 KB (2D 1x1 PF_FloatRGBA RT) ReflectionBrightness unused(124798)
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     11 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     15 = 1 KB (2D 4x4 PF_R8G8) GTAORandomization
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     42 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2020.02.02-18.20.09:571][161]LogConsoleResponse:     12 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2020.02.02-18.20.09:571][161]LogConsoleResponse: 
+[2020.02.02-18.20.09:571][161]LogConsoleResponse: Pool: 64/208 MB (referenced/allocated)
+[2020.02.02-18.20.09:571][161]Cmd: rhi.DumpMemory
+[2020.02.02-18.20.09:578][161]RHI resource memory (not tracked by our allocator)
+[2020.02.02-18.20.09:578][161]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]        46399492  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]         8413260  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]       134778284  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]        52493940  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]         4603328  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]         9336450  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]      2354662841  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]          353488  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]       615620172  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.02.02-18.20.09:578][161]3079.309MB total
+[2020.02.02-18.20.09:578][161]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.02.02-18.20.09:578][161]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.02.02-18.20.09:673][161]Log file closed, 02/02/20 13:20:09
